@@ -1,7 +1,8 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Anulika Gupta</h1>
 <h3 align="center">A passionate fullstack developer from India.</h3>
-<img align="right" src="https://camo.githubusercontent.com/4a686e6ca34f1a556bf886c23d95986d0b8bc1e9b9472b149b32a1aa77e20673/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6c6f747469652d3030305f315f312e676966" alt="Coading"with="400">
+<img align="center"src="https://camo.githubusercontent.com/4a686e6ca34f1a556bf886c23d95986d0b8bc1e9b9472b149b32a1aa77e20673/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6c6f747469652d3030305f315f312e676966" alt="Coading"with="400">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anulika2201&label=Profile%20views&color=0e75b6&style=flat" alt="anulika2201" /> </p>
 
