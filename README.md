@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Java Script**
 
-- 👨‍💻 All of my projects are available at("under working")
-
 - 💬 Ask me about **HTML,CSS,Python,C++**
 
 - 📫 How to reach me **anulikagupta2201@gmail.com**
